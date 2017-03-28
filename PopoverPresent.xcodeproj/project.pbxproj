@@ -12,6 +12,19 @@
 		4F6B0F941E8A45C800EF3C02 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0F921E8A45C800EF3C02 /* Main.storyboard */; };
 		4F6B0F961E8A45C800EF3C02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0F951E8A45C800EF3C02 /* Assets.xcassets */; };
 		4F6B0F991E8A45C800EF3C02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0F971E8A45C800EF3C02 /* LaunchScreen.storyboard */; };
+		4F6B0FA21E8A46F100EF3C02 /* angry.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0FA11E8A46F100EF3C02 /* angry.png */; };
+		4F6B0FA41E8A470100EF3C02 /* avatar1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0FA31E8A470100EF3C02 /* avatar1.png */; };
+		4F6B0FA61E8A470800EF3C02 /* avatar2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0FA51E8A470800EF3C02 /* avatar2.png */; };
+		4F6B0FA81E8A472D00EF3C02 /* comment.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0FA71E8A472D00EF3C02 /* comment.png */; };
+		4F6B0FAA1E8A473400EF3C02 /* greyLike.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0FA91E8A473400EF3C02 /* greyLike.png */; };
+		4F6B0FAC1E8A473900EF3C02 /* haha.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0FAB1E8A473900EF3C02 /* haha.png */; };
+		4F6B0FAE1E8A473F00EF3C02 /* img.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0FAD1E8A473F00EF3C02 /* img.png */; };
+		4F6B0FB41E8A474D00EF3C02 /* like.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0FAF1E8A474D00EF3C02 /* like.png */; };
+		4F6B0FB51E8A474D00EF3C02 /* love.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0FB01E8A474D00EF3C02 /* love.png */; };
+		4F6B0FB61E8A474D00EF3C02 /* sad.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0FB11E8A474D00EF3C02 /* sad.png */; };
+		4F6B0FB71E8A474D00EF3C02 /* share.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0FB21E8A474D00EF3C02 /* share.png */; };
+		4F6B0FB81E8A474D00EF3C02 /* wow.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F6B0FB31E8A474D00EF3C02 /* wow.png */; };
+		4F6B0FBA1E8A491100EF3C02 /* PopoverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F6B0FB91E8A491100EF3C02 /* PopoverViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +35,19 @@
 		4F6B0F951E8A45C800EF3C02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F6B0F981E8A45C800EF3C02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F6B0F9A1E8A45C800EF3C02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F6B0FA11E8A46F100EF3C02 /* angry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = angry.png; sourceTree = "<group>"; };
+		4F6B0FA31E8A470100EF3C02 /* avatar1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avatar1.png; sourceTree = "<group>"; };
+		4F6B0FA51E8A470800EF3C02 /* avatar2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avatar2.png; sourceTree = "<group>"; };
+		4F6B0FA71E8A472D00EF3C02 /* comment.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = comment.png; sourceTree = "<group>"; };
+		4F6B0FA91E8A473400EF3C02 /* greyLike.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greyLike.png; sourceTree = "<group>"; };
+		4F6B0FAB1E8A473900EF3C02 /* haha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = haha.png; sourceTree = "<group>"; };
+		4F6B0FAD1E8A473F00EF3C02 /* img.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img.png; sourceTree = "<group>"; };
+		4F6B0FAF1E8A474D00EF3C02 /* like.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = like.png; sourceTree = "<group>"; };
+		4F6B0FB01E8A474D00EF3C02 /* love.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = love.png; sourceTree = "<group>"; };
+		4F6B0FB11E8A474D00EF3C02 /* sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sad.png; sourceTree = "<group>"; };
+		4F6B0FB21E8A474D00EF3C02 /* share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = share.png; sourceTree = "<group>"; };
+		4F6B0FB31E8A474D00EF3C02 /* wow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wow.png; sourceTree = "<group>"; };
+		4F6B0FB91E8A491100EF3C02 /* PopoverViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopoverViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +80,35 @@
 		4F6B0F8D1E8A45C800EF3C02 /* PopoverPresent */ = {
 			isa = PBXGroup;
 			children = (
+				4F6B0FA01E8A45CF00EF3C02 /* images */,
 				4F6B0F8E1E8A45C800EF3C02 /* AppDelegate.swift */,
 				4F6B0F901E8A45C800EF3C02 /* ViewController.swift */,
 				4F6B0F921E8A45C800EF3C02 /* Main.storyboard */,
 				4F6B0F951E8A45C800EF3C02 /* Assets.xcassets */,
 				4F6B0F971E8A45C800EF3C02 /* LaunchScreen.storyboard */,
 				4F6B0F9A1E8A45C800EF3C02 /* Info.plist */,
+				4F6B0FB91E8A491100EF3C02 /* PopoverViewController.swift */,
 			);
 			path = PopoverPresent;
+			sourceTree = "<group>";
+		};
+		4F6B0FA01E8A45CF00EF3C02 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				4F6B0FAF1E8A474D00EF3C02 /* like.png */,
+				4F6B0FB01E8A474D00EF3C02 /* love.png */,
+				4F6B0FB11E8A474D00EF3C02 /* sad.png */,
+				4F6B0FB21E8A474D00EF3C02 /* share.png */,
+				4F6B0FB31E8A474D00EF3C02 /* wow.png */,
+				4F6B0FAD1E8A473F00EF3C02 /* img.png */,
+				4F6B0FAB1E8A473900EF3C02 /* haha.png */,
+				4F6B0FA91E8A473400EF3C02 /* greyLike.png */,
+				4F6B0FA71E8A472D00EF3C02 /* comment.png */,
+				4F6B0FA51E8A470800EF3C02 /* avatar2.png */,
+				4F6B0FA31E8A470100EF3C02 /* avatar1.png */,
+				4F6B0FA11E8A46F100EF3C02 /* angry.png */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,8 +171,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F6B0F991E8A45C800EF3C02 /* LaunchScreen.storyboard in Resources */,
+				4F6B0FA21E8A46F100EF3C02 /* angry.png in Resources */,
+				4F6B0FAC1E8A473900EF3C02 /* haha.png in Resources */,
+				4F6B0FB71E8A474D00EF3C02 /* share.png in Resources */,
 				4F6B0F961E8A45C800EF3C02 /* Assets.xcassets in Resources */,
+				4F6B0FAA1E8A473400EF3C02 /* greyLike.png in Resources */,
+				4F6B0FB51E8A474D00EF3C02 /* love.png in Resources */,
+				4F6B0FB61E8A474D00EF3C02 /* sad.png in Resources */,
+				4F6B0FAE1E8A473F00EF3C02 /* img.png in Resources */,
+				4F6B0FB81E8A474D00EF3C02 /* wow.png in Resources */,
 				4F6B0F941E8A45C800EF3C02 /* Main.storyboard in Resources */,
+				4F6B0FA41E8A470100EF3C02 /* avatar1.png in Resources */,
+				4F6B0FA61E8A470800EF3C02 /* avatar2.png in Resources */,
+				4F6B0FA81E8A472D00EF3C02 /* comment.png in Resources */,
+				4F6B0FB41E8A474D00EF3C02 /* like.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F6B0F911E8A45C800EF3C02 /* ViewController.swift in Sources */,
+				4F6B0FBA1E8A491100EF3C02 /* PopoverViewController.swift in Sources */,
 				4F6B0F8F1E8A45C800EF3C02 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +359,7 @@
 				4F6B0F9F1E8A45C800EF3C02 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
